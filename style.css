@@ -44,9 +44,10 @@ body{
   text-decoration:none;
   color:white;
   padding:5px 0px;
+  transition:0.5s ease;
 }
 .child_list a:hover{
-border-bottom:2px solid #FF5332;
+border-bottom:3px solid #FF5332;
 }
 /* Navbar css */
 /* Header css */
@@ -70,6 +71,7 @@ color:white;
   background-color:rgba(255, 255, 255, 0);
   color:white;
   border:1px solid white;
+  transition:0.5s ease;
 }
 .parental_header button:hover{
   background-color:#FF5332;
@@ -90,3 +92,138 @@ color:white;
   font-size:15px;
 }
 /* Courses CSS */
+/* Degree CSS */
+.parental_degree{
+  display:flex;
+  margin-top:80px;
+}
+.child_degree{
+  width:350px;
+  margin-left:50px;
+  text-align:center;
+}
+.child_degree p{
+margin-top:15px;
+color:#3F3F3F;
+}
+/* Degree CSS */
+/* Campus heade css */
+.campus_header{
+  margin-top:150px;
+}
+/* Campus heade css */
+/* Campus CSS */
+.parental_campus{
+  display:flex;
+  gap:30px;
+  margin-left:150px;
+  margin-top:50px;
+}
+
+.child_campus p{
+  color:rgba(255, 255, 255, 0);
+  text-align:center;
+  padding-top:200px;
+}
+.campus-1{
+  background-image:url(home-img/campus/london.png);
+    width:300px;
+  height:400px;
+}
+.campus-2{
+  background-image:url(home-img/campus/newyork.png);
+    width:300px;
+  height:400px;
+}
+.campus-3{
+  background-image:url(home-img/campus/washington.png);
+    width:300px;
+  height:400px;
+}
+/* Campus CSS */
+/* Facilities CSS */
+.parental_facilities{
+  margin-left:30px;
+}
+.child_facilities img{
+width:300px;
+height:200px;
+border-radius:5px;
+margin-bottom:10px;
+}
+.child_facilities {
+  text-align:left;
+}
+/* Facilities CSS */
+/* Student review css */
+.parental_review{
+  display:flex;
+  gap:150px;
+  margin-left:60px;
+  margin-top:60px;
+}
+/* Student 1 */
+.child_review{
+  width:490px;
+}
+.children_review{
+  display:flex;
+}
+.children_review img{
+   width:50px;
+   border-radius:100px;
+}
+.children_review p{
+  margin-left:20px;
+}
+.icon_review{
+  margin-left:68px;
+  margin-top:10px;
+}
+.icon_review i{
+  margin-top:10px;
+  color:#FF5332;
+  font-size:15px;
+}
+/* Student 2 */
+/* Student review css */
+/* Courses CSS */
+.course_img{
+  background-image:url(home-img/courses/banner2.jpg);
+  width:920px;
+  height:350px;
+  margin-top:100px;
+  margin-left:175px;
+  border-radius:10px;
+}
+.content_course{
+  text-align:center;
+padding-top:110px;
+color:white;
+}
+.content_course h2{
+  margin-bottom:20px;
+}
+.content_course button{
+  margin-top:20px;
+  padding:10px 15px;
+  background-color:rgba(255, 255, 255, 0);
+  color:white;
+  border:2px solid white;
+  transition:0.5s ease;
+}
+.content_course button:hover{
+  background-color:#FF5332;
+}
+/* Courses CSS */
+/* Footer CSS */
+.footer h4{
+  margin-bottom:40px;
+}
+.footer i{
+  color:#FF5332;
+  font-size:20px;
+  margin-left:20px;
+  margin-top:20px;
+}
+/* Footer CSS */

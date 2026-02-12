@@ -22,6 +22,35 @@ letter-spacing:0px;
 color:white;
     margin-left:0px;
    }
+   /* Degree media css */
+   .parental_degree{
+      display:block;
+   }
+   .child_degree{
+      margin-left:110px;
+      margin-top:20px;
+   }
+   /* Campus CSS */
+   .parental_campus{
+      display:block;
+      margin-left:140px;
+   }
+   .child_campus{
+      margin-top:20px;
+   }
+   /* Student review section */
+   .parental_review{
+      display:block;
+      margin-left:20px;
+   }
+   .child_review{
+      margin-top:50px;
+   }
+   /* Course media css */
+   .course_img{
+      margin-left:0px;
+      width:100%;
+   }
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -47,6 +76,38 @@ letter-spacing:4px;
    .parental_header p{
 color:white;
     margin-left:100px;
+   }
+      /* Degree media css */
+   .child_degree{
+      margin-left:5px;
+   }
+      /* Campus CSS */
+   .parental_campus{
+      margin-left:0px;
+   }
+   .child_campus{
+      margin-top:20px;
+   }
+   /* Facilities media css */
+   .parental_facilities{
+      display:block;
+      margin-left:240px;
+   }
+   .child_facilities{
+      margin-top:50px;
+   }
+     /* Student review section */
+   .parental_review{
+      display:block;
+      margin-left:20px;
+   }
+   .child_review{
+      margin-top:50px;
+   }
+    /* Course media css */
+   .course_img{
+      margin-left:0px;
+      width:100%;
    }
 }
  
@@ -75,6 +136,27 @@ letter-spacing:4px;
 color:white;
     margin-left:220px;
    }
+       /* Degree media css */
+   .child_degree{
+      margin-left:5px;
+   }
+         /* Campus CSS */
+   .parental_campus{
+      margin-left:10px;
+   }
+   .child_campus{
+      margin-top:20px;
+   }
+   /* Student review media css */
+   .parental_review{
+      margin-left:5px;
+      gap:10px;
+   }
+    /* Course media css */
+   .course_img{
+      margin-left:0px;
+      width:100%;
+   }
 }
 
 
@@ -101,6 +183,17 @@ letter-spacing:4px;
    .parental_header p{
 color:white;
     margin-left:315px;
+   }
+         /* Degree media css */
+   .child_degree{
+      margin-left:40px;
+   }
+            /* Campus CSS */
+   .parental_campus{
+      margin-left:110px;
+   }
+   .child_campus{
+      margin-top:20px;
    }
 }
 
