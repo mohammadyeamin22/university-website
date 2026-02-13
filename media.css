@@ -51,6 +51,31 @@ color:white;
       margin-left:0px;
       width:100%;
    }
+   /* About media css */
+   .parental_about{
+      display:block;
+      margin-left:50px;
+   }
+   .child_text{
+      margin-bottom:50px;
+      width:100%;
+   }
+   /* Post Categories media css */
+   .categories{
+      display:block;
+      margin-left:0px;
+   }
+   .categories_img img{
+      width:100%;
+   }
+   .categories_text{
+      margin-left:0px;
+      margin-top:50px;
+   }
+   /* Blog media css */
+   .blog-section{
+      margin-left:5px;
+   }
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -109,6 +134,31 @@ color:white;
       margin-left:0px;
       width:100%;
    }
+     /* About media css */
+   .parental_about{
+      display:block;
+      margin-left:50px;
+   }
+   .child_text{
+      margin-bottom:50px;
+      width:70%;
+   }
+      /* Post Categories media css */
+   .categories{
+      display:block;
+      margin-left:0px;
+   }
+   .categories_img img{
+      width:100%;
+   }
+   .categories_text{
+      margin-left:0px;
+      margin-top:50px;
+   }
+   /* Blog media css */
+   .blog-section{
+      margin-left:5px;
+   }
 }
  
 
@@ -157,6 +207,26 @@ color:white;
       margin-left:0px;
       width:100%;
    }
+      /* About media css */
+   .parental_about{
+      margin-left:20px;
+   }
+      /* Post Categories media css */
+   .categories{
+      margin-left:40px;
+   }
+   .categories_img img{
+  width:500px;
+   }
+   .categories_text{
+      margin-left:20px;
+      /* margin-top:50px; */
+   }
+   /* Blog media css */
+   .blog-section{
+      margin-left:38px;
+      width:530px;
+   }
 }
 
 
@@ -194,6 +264,10 @@ color:white;
    }
    .child_campus{
       margin-top:20px;
+   }
+         /* About media css */
+   .parental_about{
+      margin-left:110px;
    }
 }
 

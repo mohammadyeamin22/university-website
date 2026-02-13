@@ -216,6 +216,86 @@ color:white;
   background-color:#FF5332;
 }
 /* Courses CSS */
+/* About navbar */
+.about_navbar{
+  background-image:url(about-img/header/background.jpg);
+  width:100%;
+  height:400px;
+}
+.about_text{
+  padding:120px 300px;
+}
+/* About navbar */
+/* About CSS */
+.parental_about{
+  display:flex;
+  margin-top:200px;
+  margin-left:160px;
+}
+/* About text CSS */
+.child_text{
+  width:410px;
+  margin-right:50px;
+}
+.child_text p{
+  margin:20px 0px;
+  color:#718096;
+}
+.child_text button{
+  padding:7px 12px;
+  color:#FF5332;
+  border:1px solid #FF5332;
+}
+.child_text button:hover{
+  color:white;
+  background-color:#FF5332;
+}
+/* About img CSS */
+.child_img img{
+width:500px;
+}
+/* About CSS */
+/* Post Categories CSS */
+.categories{
+  display:flex;
+  margin-top:200px;
+  margin-left:100px;
+}
+/* Post image css */
+.categories_img img{
+  width:600px;
+}
+/* Post text CSS */
+.categories_text{
+  margin-left:70px;
+}
+.post_header span{
+  border:2px solid #FF5332;
+  padding:5px 110px;
+  background-color:#FF5332;
+  font-weight:bolder;
+  color:white;
+}
+.child-text{
+  display:flex;
+  color:#718096;
+  margin-top:19px;
+}
+/* Post Categories CSS */
+/* Blog CSS */
+.blog-section{
+  width:600px;
+  margin-left:100px;
+  margin-top:50px;
+}
+.blog-section h3{
+  color:black;
+}
+.blog-section p{
+  margin-top:20px;
+  color:#718096;
+}
+/* Blog CSS */
 /* Footer CSS */
 .footer h4{
   margin-bottom:40px;
