@@ -44,7 +44,7 @@ body{
   text-decoration:none;
   color:white;
   padding:5px 0px;
-  transition:0.5s ease;
+  transition:1s ease;
 }
 .child_list a:hover{
 border-bottom:3px solid #FF5332;
@@ -71,7 +71,7 @@ color:white;
   background-color:rgba(255, 255, 255, 0);
   color:white;
   border:1px solid white;
-  transition:0.5s ease;
+  transition:1s ease;
 }
 .parental_header button:hover{
   background-color:#FF5332;
@@ -210,7 +210,7 @@ color:white;
   background-color:rgba(255, 255, 255, 0);
   color:white;
   border:2px solid white;
-  transition:0.5s ease;
+  transition:1s ease;
 }
 .content_course button:hover{
   background-color:#FF5332;
@@ -245,6 +245,7 @@ color:white;
   padding:7px 12px;
   color:#FF5332;
   border:1px solid #FF5332;
+  transition:1s ease;
 }
 .child_text button:hover{
   color:white;
